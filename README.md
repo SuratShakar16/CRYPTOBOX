@@ -8,9 +8,6 @@ This project could be deployed to Internet Computer. However, considering the co
 
 ## Function-display:
 
-**Starter-Main Route:**
-
-<img width="1440" alt="Screen Shot 2022-06-07 at 10 07 18 AM" src="https://user-images.githubusercontent.com/89348583/172408640-2fddaa0f-6798-4949-9355-fda24c8c7d8c.png">
 
 **Mint NFT page:**
 
@@ -34,19 +31,11 @@ This project could be deployed to Internet Computer. However, considering the co
 
 <img width="1440" alt="Screen Shot 2022-06-07 at 10 10 48 AM" src="https://user-images.githubusercontent.com/89348583/172409627-f422a318-184a-4f0a-930b-538ac9d344a4.png">
 
-**Claiming the initial amount of virtual currency of 10,000:**
-
-<img width="1440" alt="Screen Shot 2022-06-07 at 10 17 36 AM" src="https://user-images.githubusercontent.com/89348583/172409776-83ee1682-46de-44e1-b7a2-b0124b29c37e.png">
-
 **Tests with buying others NFT with the virtual currency:**
 
 <img width="1440" alt="Screen Shot 2022-06-07 at 10 22 32 AM" src="https://user-images.githubusercontent.com/89348583/172410051-b8346169-3783-4f83-b105-9f49bfb520a4.png">
 
 <img width="1438" alt="Screen Shot 2022-06-07 at 10 22 41 AM" src="https://user-images.githubusercontent.com/89348583/172410102-088fa9ec-bf28-4e29-a08c-8ce8285a02c8.png">
-
-**The amount of virtual currency in wallet is deducted:**
-
-<img width="1440" alt="Screen Shot 2022-06-07 at 10 23 06 AM" src="https://user-images.githubusercontent.com/89348583/172410235-c65b51ab-cc1d-4a91-9dff-76f4ed71601c.png">
 
 **Bought NFT is shown in the user's own gallery:**
 
