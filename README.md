@@ -1,6 +1,6 @@
 # NFT-Marketplace CRYPTOBOX
 
-Practiced using Motoko, React, and DFX to create and deploy a NFT market place on Internet Computers. Functions including minting, listing, buying, and displaying is deployed. The virtual currency used for testing is "Dang".
+Practiced using Motoko, React, and DFX to create and deploy a NFT market place on Internet Computers. Functions including minting, listing, buying, and displaying is deployed. The virtual currency used for testing is "Toka".
 
 To actually use the project's function of buying in virtual currency, you need to download the local token package created by Angela Yu. You can contact me for the package if you don't have access to her subscription.
 
